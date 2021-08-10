@@ -1,0 +1,2 @@
+resources:
+- github.com/config-sync-examples/kustomize-components?ref=main
